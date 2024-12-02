@@ -1,0 +1,48 @@
+Hi everyone, it’s great to meet you all, and thank you for the opportunity to introduce myself.
+
+My name is Damon Young, and I’ve been working as a Front-End Developer for over 7 years.
+
+During my master's degree, I developed a strong interest in web development, 
+especially in how websites and web apps are created and how they improve user experience. 
+This led me to decide to pursue it as a career.
+
+I have a lot of experience building web applications at my previous companies, 
+including e-commerce platforms, banking reward systems, and several admin management systems. 
+I’ve worked on everything from user-facing front-end pages to simple admin dashboards and back-office tools, 
+making sure everything runs smoothly for both users and internal teams.
+
+I’m comfortable working with modern JavaScript, TypeScript, React, 
+and state management libraries like Redux and Zustand. 
+I also have experience writing unit tests using Jest. 
+In my previous React projects, I was both a key developer and tech lead, 
+responsible for front-end development and improving the overall user experience.
+
+In addition, I’ve contributed to the open-source project Ant Design Mobile, which has over 11k stars on GitHub。
+My contributions include developing components, 
+writing unit tests to improve coverage, and optimizing performance.
+
+I look forward to contributing to your team and projects. Thank you!
+
+
+Here's the translation of your self-introduction into Chinese:
+
+大家好，很高兴见到大家，感谢给我机会自我介绍。
+
+我叫 Damon Young，从事前端开发工作已有7年多。
+
+在我的硕士学位期间，我对Web开发产生了浓厚的兴趣，
+特别是对网站和Web应用的构建过程，以及它们如何提升用户体验。这促使我决定将前端开发作为我的职业方向。
+
+在之前的公司，我有丰富的网页应用开发经验，包括电商平台、银行积分系统和多个后台管理系统。
+我参与了从面向用户的前端页面开发到简单的后台管理面板和内部工具的开发，
+确保无论是用户还是内部团队都能顺利高效地使用这些系统。
+
+我熟练使用现代JavaScript、TypeScript、React，以及像Redux和Zustand这样的状态管理库。
+我也有使用Jest编写单元测试的经验。
+在之前的React项目中，我既是核心开发人员也是技术负责人，主要负责前端开发以及提升整体用户体验。
+
+此外，我还为开源项目Ant Design Mobile做出了贡献，该项目在GitHub上已有超过11k颗星。
+我的贡献包括开发组件、编写单元测试以提高测试覆盖率，以及优化性能。
+
+我期待能为贵团队和项目做出贡献。谢谢！
+
